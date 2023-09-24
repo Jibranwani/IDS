@@ -1,5 +1,7 @@
 
-python network-based signature intrusion detection system
+python network-based signature intrusion detection system.
+Making it more Effective by using Firebase to store malicious signatures. Releasing Soon.🚀
+
 
 ## Required Packages
 * scapy
