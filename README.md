@@ -1,5 +1,5 @@
-# µIDS
-simple python network-based signature intrusion detection system
+
+python network-based signature intrusion detection system
 
 ## Required Packages
 * scapy
