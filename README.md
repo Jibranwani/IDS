@@ -8,7 +8,7 @@ python network-based signature intrusion detection system.
 * netifaces
 
 ## Install && Testing
-    git clone ../acsl_IDS.git
+    git clone ..
     python3 -m venv acsl_IDS
     cd acsl_IDS
     pip3 install -r requirements.txt
